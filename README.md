@@ -1,4 +1,4 @@
-# Rocket Ship Coding Challenge 🚀 &nbsp; ![easy](https://img.shields.io/badge/-Easy-brightgreen) ![time](https://img.shields.io/badge/%E2%8F%B0-10m-blue) 
+# Rocket Ship Coding Challenge 🚀 &nbsp;
 
 &nbsp;
 ## Goals / Outcomes ✨
@@ -10,8 +10,7 @@ None
 
 &nbsp;
 ## Requirements
-- Stop the Class rocket from taking off
-- Stop the Functional rocket from taking off
+- Stop the rocket from taking off
 
 &nbsp;
 ## Think about 💡
